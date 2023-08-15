@@ -1,0 +1,793 @@
+[
+    {
+        "sifra_rezervacije": 2,
+        "apartman": {
+            "sifra": 8,
+            "lokacija": {
+                "geografska_sirina": "46.82",
+                "geografska_duzina": "19.37",
+                "adresa": {
+                    "ulica_broj": "Lisina 27",
+                    "grad": "Kopaonik",
+                    "postanski_broj": "36354"
+                }
+            },
+            "domacin": "Marija Maric",
+            "cena_po_noci": 3400
+        },
+        "pocetni_datum_rezervacije": "2022.6.12.",
+        "broj_nocenja": 2,
+        "ukupna_cena": 5814,
+        "gosti": [
+            "Branislav Manojlovic",
+            "Mia Manojlovi\u0107"
+        ],
+        "popust": "da",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 3,
+        "apartman": {
+            "sifra": 2,
+            "lokacija": {
+                "geografska_sirina": "46.93",
+                "geografska_duzina": "20.03",
+                "adresa": {
+                    "ulica_broj": "Palmoti\u0107eva 4",
+                    "grad": "Beograd",
+                    "postanski_broj": "11000"
+                }
+            },
+            "domacin": "Marko Markovic",
+            "cena_po_noci": 2100
+        },
+        "pocetni_datum_rezervacije": "2022.6.12.",
+        "broj_nocenja": 3,
+        "ukupna_cena": 5880,
+        "gosti": [
+            "Dunja Markovic",
+            "Milo\u0161 Markovi\u0107"
+        ],
+        "popust": "ne",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 4,
+        "apartman": {
+            "sifra": 6,
+            "lokacija": {
+                "geografska_sirina": "46.12",
+                "geografska_duzina": "21.63",
+                "adresa": {
+                    "ulica_broj": "Episkopa Visariona 2",
+                    "grad": "Novi Sad",
+                    "postanski_broj": "21000"
+                }
+            },
+            "domacin": "Sara Saric",
+            "cena_po_noci": 1850
+        },
+        "pocetni_datum_rezervacije": "2022.6.13.",
+        "broj_nocenja": 1,
+        "ukupna_cena": 1581,
+        "gosti": [
+            "Dunja Markovic"
+        ],
+        "popust": "da",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 5,
+        "apartman": {
+            "sifra": 11,
+            "lokacija": {
+                "geografska_sirina": "45.66",
+                "geografska_duzina": "19.6",
+                "adresa": {
+                    "ulica_broj": "Lovre Bra\u010duljevi\u0107a 2",
+                    "grad": "Subotica",
+                    "postanski_broj": "24000"
+                }
+            },
+            "domacin": "Petar Petrovi\u0107",
+            "cena_po_noci": 2300
+        },
+        "pocetni_datum_rezervacije": "2022.6.12.",
+        "broj_nocenja": 3,
+        "ukupna_cena": 6440,
+        "gosti": [
+            "Milica Milic"
+        ],
+        "popust": "ne",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 6,
+        "apartman": {
+            "sifra": 3,
+            "lokacija": {
+                "geografska_sirina": "42.67",
+                "geografska_duzina": "20.89",
+                "adresa": {
+                    "ulica_broj": "Ulica Miladina Pe\u0107inara 23",
+                    "grad": "Zlatibor",
+                    "postanski_broj": "31315"
+                }
+            },
+            "domacin": "Marko Markovic",
+            "cena_po_noci": 2350
+        },
+        "pocetni_datum_rezervacije": "2022.6.12.",
+        "broj_nocenja": 1,
+        "ukupna_cena": 2009,
+        "gosti": [
+            "Milica Milic",
+            "Du\u0161an Aleksi\u0107"
+        ],
+        "popust": "da",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 7,
+        "apartman": {
+            "sifra": 5,
+            "lokacija": {
+                "geografska_sirina": "43.04",
+                "geografska_duzina": "18.28",
+                "adresa": {
+                    "ulica_broj": "Nikole Pa\u0161i\u0107a 4",
+                    "grad": "Novi Sad",
+                    "postanski_broj": "21000"
+                }
+            },
+            "domacin": "Sara Saric",
+            "cena_po_noci": 3400
+        },
+        "pocetni_datum_rezervacije": "2022.6.12.",
+        "broj_nocenja": 3,
+        "ukupna_cena": 9044,
+        "gosti": [
+            "Milica Milic",
+            "Sara Koji\u0107"
+        ],
+        "popust": "da",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 8,
+        "apartman": {
+            "sifra": 9,
+            "lokacija": {
+                "geografska_sirina": "46.28",
+                "geografska_duzina": "22.51",
+                "adresa": {
+                    "ulica_broj": "Sun\u010dana Dolina 5",
+                    "grad": "Kopaonik",
+                    "postanski_broj": "36354"
+                }
+            },
+            "domacin": "Marija Maric",
+            "cena_po_noci": 4550
+        },
+        "pocetni_datum_rezervacije": "2022.6.12.",
+        "broj_nocenja": 2,
+        "ukupna_cena": 8190,
+        "gosti": [
+            "Dusan Dusanovic"
+        ],
+        "popust": "ne",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 9,
+        "apartman": {
+            "sifra": 3,
+            "lokacija": {
+                "geografska_sirina": "42.67",
+                "geografska_duzina": "20.89",
+                "adresa": {
+                    "ulica_broj": "Ulica Miladina Pe\u0107inara 23",
+                    "grad": "Zlatibor",
+                    "postanski_broj": "31315"
+                }
+            },
+            "domacin": "Marko Markovic",
+            "cena_po_noci": 2350
+        },
+        "pocetni_datum_rezervacije": "2022.6.13.",
+        "broj_nocenja": 2,
+        "ukupna_cena": 4241,
+        "gosti": [
+            "Dusan Dusanovic",
+            "Maja Miki\u0107"
+        ],
+        "popust": "da",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 10,
+        "apartman": {
+            "sifra": 7,
+            "lokacija": {
+                "geografska_sirina": "45.52",
+                "geografska_duzina": "19.17",
+                "adresa": {
+                    "ulica_broj": "Trg Republike 13",
+                    "grad": "Beograd",
+                    "postanski_broj": "11000"
+                }
+            },
+            "domacin": "Marija Maric",
+            "cena_po_noci": 2300
+        },
+        "pocetni_datum_rezervacije": "2022.6.12.",
+        "broj_nocenja": 1,
+        "ukupna_cena": 2070,
+        "gosti": [
+            "Dunja Markovic"
+        ],
+        "popust": "ne",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 11,
+        "apartman": {
+            "sifra": 2,
+            "lokacija": {
+                "geografska_sirina": "46.93",
+                "geografska_duzina": "20.03",
+                "adresa": {
+                    "ulica_broj": "Palmoti\u0107eva 4",
+                    "grad": "Beograd",
+                    "postanski_broj": "11000"
+                }
+            },
+            "domacin": "Marko Markovic",
+            "cena_po_noci": 2100
+        },
+        "pocetni_datum_rezervacije": "2022.6.16.",
+        "broj_nocenja": 3,
+        "ukupna_cena": 5885,
+        "gosti": [
+            "Dunja Markovic",
+            "Marija Markovi\u0107"
+        ],
+        "popust": "da",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 12,
+        "apartman": {
+            "sifra": 11,
+            "lokacija": {
+                "geografska_sirina": "45.66",
+                "geografska_duzina": "19.6",
+                "adresa": {
+                    "ulica_broj": "Lovre Bra\u010duljevi\u0107a 2",
+                    "grad": "Subotica",
+                    "postanski_broj": "24000"
+                }
+            },
+            "domacin": "Petar Petrovi\u0107",
+            "cena_po_noci": 2300
+        },
+        "pocetni_datum_rezervacije": "2022.6.15.",
+        "broj_nocenja": 1,
+        "ukupna_cena": 2415,
+        "gosti": [
+            "Dunja Markovic"
+        ],
+        "popust": "ne",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 13,
+        "apartman": {
+            "sifra": 1,
+            "lokacija": {
+                "geografska_sirina": "41.55",
+                "geografska_duzina": "21.14",
+                "adresa": {
+                    "ulica_broj": "Mo\u0161e Pijade 34",
+                    "grad": "Crvenka",
+                    "postanski_broj": "25220"
+                }
+            },
+            "domacin": "Marko Markovic",
+            "cena_po_noci": 1550
+        },
+        "pocetni_datum_rezervacije": "2022.6.13.",
+        "broj_nocenja": 2,
+        "ukupna_cena": 2797,
+        "gosti": [
+            "Dunja Markovic",
+            "Milo\u0161 Kova\u010devi\u0107"
+        ],
+        "popust": "da",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 14,
+        "apartman": {
+            "sifra": 5,
+            "lokacija": {
+                "geografska_sirina": "43.04",
+                "geografska_duzina": "18.28",
+                "adresa": {
+                    "ulica_broj": "Nikole Pa\u0161i\u0107a 4",
+                    "grad": "Novi Sad",
+                    "postanski_broj": "21000"
+                }
+            },
+            "domacin": "Sara Saric",
+            "cena_po_noci": 3400
+        },
+        "pocetni_datum_rezervacije": "2022.6.15.",
+        "broj_nocenja": 2,
+        "ukupna_cena": 7140,
+        "gosti": [
+            "Dunja Markovic",
+            "Mia Jovanovi\u0107",
+            "Nevena Kova\u010devi\u0107"
+        ],
+        "popust": "ne",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 15,
+        "apartman": {
+            "sifra": 9,
+            "lokacija": {
+                "geografska_sirina": "46.28",
+                "geografska_duzina": "22.51",
+                "adresa": {
+                    "ulica_broj": "Sun\u010dana Dolina 5",
+                    "grad": "Kopaonik",
+                    "postanski_broj": "36354"
+                }
+            },
+            "domacin": "Marija Maric",
+            "cena_po_noci": 4550
+        },
+        "pocetni_datum_rezervacije": "2022.6.14.",
+        "broj_nocenja": 2,
+        "ukupna_cena": 9327,
+        "gosti": [
+            "Dusan Dusanovic"
+        ],
+        "popust": "ne",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 16,
+        "apartman": {
+            "sifra": 10,
+            "lokacija": {
+                "geografska_sirina": "46.96",
+                "geografska_duzina": "19.69",
+                "adresa": {
+                    "ulica_broj": "Mar\u0161ala Tita 4",
+                    "grad": "Crvenka",
+                    "postanski_broj": "25220"
+                }
+            },
+            "domacin": "Marija Maric",
+            "cena_po_noci": 1950
+        },
+        "pocetni_datum_rezervacije": "2022.6.13.",
+        "broj_nocenja": 1,
+        "ukupna_cena": 1667,
+        "gosti": [
+            "Dusan Dusanovic"
+        ],
+        "popust": "da",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 17,
+        "apartman": {
+            "sifra": 7,
+            "lokacija": {
+                "geografska_sirina": "45.52",
+                "geografska_duzina": "19.17",
+                "adresa": {
+                    "ulica_broj": "Trg Republike 13",
+                    "grad": "Beograd",
+                    "postanski_broj": "11000"
+                }
+            },
+            "domacin": "Marija Maric",
+            "cena_po_noci": 2300
+        },
+        "pocetni_datum_rezervacije": "2022.6.13.",
+        "broj_nocenja": 1,
+        "ukupna_cena": 2070,
+        "gosti": [
+            "Branislav Manojlovic"
+        ],
+        "popust": "ne",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 18,
+        "apartman": {
+            "sifra": 3,
+            "lokacija": {
+                "geografska_sirina": "42.67",
+                "geografska_duzina": "20.89",
+                "adresa": {
+                    "ulica_broj": "Ulica Miladina Pe\u0107inara 23",
+                    "grad": "Zlatibor",
+                    "postanski_broj": "31315"
+                }
+            },
+            "domacin": "Marko Markovic",
+            "cena_po_noci": 2350
+        },
+        "pocetni_datum_rezervacije": "2022.6.15.",
+        "broj_nocenja": 3,
+        "ukupna_cena": 6920,
+        "gosti": [
+            "Branislav Manojlovic",
+            "Darko Markovi\u0107"
+        ],
+        "popust": "da",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 19,
+        "apartman": {
+            "sifra": 11,
+            "lokacija": {
+                "geografska_sirina": "45.66",
+                "geografska_duzina": "19.6",
+                "adresa": {
+                    "ulica_broj": "Lovre Bra\u010duljevi\u0107a 2",
+                    "grad": "Subotica",
+                    "postanski_broj": "24000"
+                }
+            },
+            "domacin": "Petar Petrovi\u0107",
+            "cena_po_noci": 2300
+        },
+        "pocetni_datum_rezervacije": "2022.6.17.",
+        "broj_nocenja": 2,
+        "ukupna_cena": 4370,
+        "gosti": [
+            "Milica Milic"
+        ],
+        "popust": "ne",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 20,
+        "apartman": {
+            "sifra": 7,
+            "lokacija": {
+                "geografska_sirina": "45.52",
+                "geografska_duzina": "19.17",
+                "adresa": {
+                    "ulica_broj": "Trg Republike 13",
+                    "grad": "Beograd",
+                    "postanski_broj": "11000"
+                }
+            },
+            "domacin": "Marija Maric",
+            "cena_po_noci": 2300
+        },
+        "pocetni_datum_rezervacije": "2022.6.14.",
+        "broj_nocenja": 3,
+        "ukupna_cena": 6773,
+        "gosti": [
+            "Milica Milic",
+            "Branko Ivanovi\u0107"
+        ],
+        "popust": "da",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 21,
+        "apartman": {
+            "sifra": 12,
+            "lokacija": {
+                "geografska_sirina": "46.23",
+                "geografska_duzina": "22.73",
+                "adresa": {
+                    "ulica_broj": "Bajnatska 5",
+                    "grad": "Subotica",
+                    "postanski_broj": "24000"
+                }
+            },
+            "domacin": "Petar Petrovi\u0107",
+            "cena_po_noci": 2600
+        },
+        "pocetni_datum_rezervacije": "2022.6.14.",
+        "broj_nocenja": 1,
+        "ukupna_cena": 2600,
+        "gosti": [
+            "Dusan Dusanovic"
+        ],
+        "popust": "ne",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 22,
+        "apartman": {
+            "sifra": 1,
+            "lokacija": {
+                "geografska_sirina": "41.55",
+                "geografska_duzina": "21.14",
+                "adresa": {
+                    "ulica_broj": "Mo\u0161e Pijade 34",
+                    "grad": "Crvenka",
+                    "postanski_broj": "25220"
+                }
+            },
+            "domacin": "Marko Markovic",
+            "cena_po_noci": 1550
+        },
+        "pocetni_datum_rezervacije": "2022.6.20.",
+        "broj_nocenja": 4,
+        "ukupna_cena": 5742,
+        "gosti": [
+            "Dusan Dusanovic",
+            "Marija Markovic"
+        ],
+        "popust": "da",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 23,
+        "apartman": {
+            "sifra": 13,
+            "lokacija": {
+                "geografska_sirina": "46.22",
+                "geografska_duzina": "19.09",
+                "adresa": {
+                    "ulica_broj": "Palmoti\u0107eva 4",
+                    "grad": "Beograd",
+                    "postanski_broj": "11000"
+                }
+            },
+            "domacin": "Marko Markovic",
+            "cena_po_noci": 1800
+        },
+        "pocetni_datum_rezervacije": "2022.6.23.",
+        "broj_nocenja": 2,
+        "ukupna_cena": 3600,
+        "gosti": [
+            "Milica Milic"
+        ],
+        "popust": "ne",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 24,
+        "apartman": {
+            "sifra": 7,
+            "lokacija": {
+                "geografska_sirina": "45.52",
+                "geografska_duzina": "19.17",
+                "adresa": {
+                    "ulica_broj": "Trg Republike 13",
+                    "grad": "Beograd",
+                    "postanski_broj": "11000"
+                }
+            },
+            "domacin": "Marija Maric",
+            "cena_po_noci": 2300
+        },
+        "pocetni_datum_rezervacije": "2022.6.19.",
+        "broj_nocenja": 2,
+        "ukupna_cena": 3933,
+        "gosti": [
+            "Milica Milic",
+            "Damjan Markovic"
+        ],
+        "popust": "da",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 25,
+        "apartman": {
+            "sifra": 10,
+            "lokacija": {
+                "geografska_sirina": "46.96",
+                "geografska_duzina": "19.69",
+                "adresa": {
+                    "ulica_broj": "Mar\u0161ala Tita 4",
+                    "grad": "Crvenka",
+                    "postanski_broj": "25220"
+                }
+            },
+            "domacin": "Marija Maric",
+            "cena_po_noci": 1950
+        },
+        "pocetni_datum_rezervacije": "2022.6.15.",
+        "broj_nocenja": 1,
+        "ukupna_cena": 2047,
+        "gosti": [
+            "Dunja Markovic"
+        ],
+        "popust": "ne",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 27,
+        "apartman": {
+            "sifra": 12,
+            "lokacija": {
+                "geografska_sirina": "46.23",
+                "geografska_duzina": "22.73",
+                "adresa": {
+                    "ulica_broj": "Bajnatska 5",
+                    "grad": "Subotica",
+                    "postanski_broj": "24000"
+                }
+            },
+            "domacin": "Petar Petrovi\u0107",
+            "cena_po_noci": 2600
+        },
+        "pocetni_datum_rezervacije": "2022.6.24.",
+        "broj_nocenja": 2,
+        "ukupna_cena": 4940,
+        "gosti": [
+            "Branislav Manojlovic"
+        ],
+        "popust": "ne",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 28,
+        "apartman": {
+            "sifra": 2,
+            "lokacija": {
+                "geografska_sirina": "46.93",
+                "geografska_duzina": "20.03",
+                "adresa": {
+                    "ulica_broj": "Palmoti\u0107eva 4",
+                    "grad": "Beograd",
+                    "postanski_broj": "11000"
+                }
+            },
+            "domacin": "Marko Markovic",
+            "cena_po_noci": 2100
+        },
+        "pocetni_datum_rezervacije": "2022.6.28.",
+        "broj_nocenja": 3,
+        "ukupna_cena": 5985,
+        "gosti": [
+            "Branislav Manojlovic",
+            "Marko Milosevic",
+            "Nikola Nikoljevic"
+        ],
+        "popust": "da",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 29,
+        "apartman": {
+            "sifra": 5,
+            "lokacija": {
+                "geografska_sirina": "43.04",
+                "geografska_duzina": "18.28",
+                "adresa": {
+                    "ulica_broj": "Nikole Pa\u0161i\u0107a 4",
+                    "grad": "Novi Sad",
+                    "postanski_broj": "21000"
+                }
+            },
+            "domacin": "Sara Saric",
+            "cena_po_noci": 3400
+        },
+        "pocetni_datum_rezervacije": "2022.6.22.",
+        "broj_nocenja": 5,
+        "ukupna_cena": 16320,
+        "gosti": [
+            "Dusan Dusanovic",
+            "Marija Markovic"
+        ],
+        "popust": "ne",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 30,
+        "apartman": {
+            "sifra": 9,
+            "lokacija": {
+                "geografska_sirina": "46.28",
+                "geografska_duzina": "22.51",
+                "adresa": {
+                    "ulica_broj": "Sun\u010dana Dolina 5",
+                    "grad": "Kopaonik",
+                    "postanski_broj": "36354"
+                }
+            },
+            "domacin": "Marija Maric",
+            "cena_po_noci": 4550
+        },
+        "pocetni_datum_rezervacije": "2022.6.19.",
+        "broj_nocenja": 1,
+        "ukupna_cena": 3890,
+        "gosti": [
+            "Dusan Dusanovic"
+        ],
+        "popust": "da",
+        "status": "zavrsena"
+    },
+    {
+        "sifra_rezervacije": 31,
+        "apartman": {
+            "sifra": 8,
+            "lokacija": {
+                "geografska_sirina": "46.82",
+                "geografska_duzina": "19.37",
+                "adresa": {
+                    "ulica_broj": "Lisina 27",
+                    "grad": "Kopaonik",
+                    "postanski_broj": "36354"
+                }
+            },
+            "domacin": "Marija Maric",
+            "cena_po_noci": 3400
+        },
+        "pocetni_datum_rezervacije": "2024.1.1.",
+        "broj_nocenja": 4,
+        "ukupna_cena": 13600,
+        "gosti": [
+            "Milica Milic"
+        ],
+        "popust": "ne",
+        "status": "odbijena"
+    },
+    {
+        "sifra_rezervacije": 32,
+        "apartman": {
+            "sifra": 3,
+            "lokacija": {
+                "geografska_sirina": "42.67",
+                "geografska_duzina": "20.89",
+                "adresa": {
+                    "ulica_broj": "Ulica Miladina Pe\u0107inara 23",
+                    "grad": "Zlatibor",
+                    "postanski_broj": "31315"
+                }
+            },
+            "domacin": "Marko Markovic",
+            "cena_po_noci": 2350
+        },
+        "pocetni_datum_rezervacije": "2022.8.2.",
+        "broj_nocenja": 3,
+        "ukupna_cena": 7050,
+        "gosti": [
+            "Milica Milic"
+        ],
+        "popust": "ne",
+        "status": "kreirana"
+    },
+    {
+        "sifra_rezervacije": 33,
+        "apartman": {
+            "sifra": 3,
+            "lokacija": {
+                "geografska_sirina": "42.67",
+                "geografska_duzina": "20.89",
+                "adresa": {
+                    "ulica_broj": "Ulica Miladina Pe\u0107inara 23",
+                    "grad": "Zlatibor",
+                    "postanski_broj": "31315"
+                }
+            },
+            "domacin": "Marko Markovic",
+            "cena_po_noci": 2350
+        },
+        "pocetni_datum_rezervacije": "2022.8.10.",
+        "broj_nocenja": 3,
+        "ukupna_cena": 6474,
+        "gosti": [
+            "Milica Milic"
+        ],
+        "popust": "da",
+        "status": "kreirana"
+    }
+]

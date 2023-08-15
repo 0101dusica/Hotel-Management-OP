@@ -1,0 +1,123 @@
+[
+    {
+        "korisnicko_ime": "0101dusica",
+        "lozinka": "dusica123",
+        "ime": "Dusica",
+        "prezime": "Trbovic",
+        "pol": "zensko",
+        "kontakt_telefon": "066666666",
+        "email": "trbovicdusica@gmail.com",
+        "uloga": "administrator",
+        "status": "aktivan"
+    },
+    {
+        "korisnicko_ime": "sarasaric",
+        "lozinka": "sara123",
+        "ime": "Sara",
+        "prezime": "Saric",
+        "pol": "zensko",
+        "kontakt_telefon": "063546281",
+        "email": "saricsara@gmail.com",
+        "uloga": "domacin",
+        "status": "aktivan"
+    },
+    {
+        "korisnicko_ime": "milicamilic",
+        "lozinka": "milica123",
+        "ime": "Milica",
+        "prezime": "Milic",
+        "pol": "zensko",
+        "kontakt_telefon": "+381 60345678",
+        "email": "milicamilic@gmail.com",
+        "uloga": "gost",
+        "status": "aktivan"
+    },
+    {
+        "korisnicko_ime": "dunjamarkovic",
+        "lozinka": "dunja123",
+        "ime": "Dunja",
+        "prezime": "Markovic",
+        "pol": "zensko",
+        "kontakt_telefon": "+381 63462813",
+        "email": "markovicdunja@gmail.com",
+        "uloga": "gost",
+        "status": "aktivan"
+    },
+    {
+        "korisnicko_ime": "bane23",
+        "lozinka": "banebane95",
+        "ime": "Branislav",
+        "prezime": "Manojlovic",
+        "pol": "muski",
+        "kontakt_telefon": "+381 695731044",
+        "email": "manojlovicb@yahoo.com",
+        "uloga": "gost",
+        "status": "aktivan"
+    },
+    {
+        "korisnicko_ime": "dusandusanovic",
+        "lozinka": "dusan123",
+        "ime": "Dusan",
+        "prezime": "Dusanovic",
+        "pol": "muski",
+        "kontakt_telefon": "+381 658936281",
+        "email": "dusanovicdusan@outlook.com",
+        "uloga": "gost",
+        "status": "aktivan"
+    },
+    {
+        "korisnicko_ime": "marijamaric",
+        "lozinka": "marija123",
+        "ime": "Marija",
+        "prezime": "Maric",
+        "pol": "zensko",
+        "kontakt_telefon": "+381 639562914",
+        "email": "maric.marija@gmail.com",
+        "uloga": "domacin",
+        "status": "aktivan"
+    },
+    {
+        "korisnicko_ime": "markomarkovic",
+        "lozinka": "marko123",
+        "ime": "Marko",
+        "prezime": "Markovic",
+        "pol": "muski",
+        "kontakt_telefon": "064827548",
+        "email": "markovicmarko@gmail.com",
+        "uloga": "domacin",
+        "status": "aktivan"
+    },
+    {
+        "korisnicko_ime": "petarpetrovic",
+        "lozinka": "petar123",
+        "ime": "Petar",
+        "prezime": "Petrovi\u0107",
+        "pol": "muski",
+        "kontakt_telefon": "+381 62372917",
+        "email": "petar.p@outlook.com",
+        "uloga": "domacin",
+        "status": "aktivan"
+    },
+    {
+        "korisnicko_ime": "enamilosevic",
+        "lozinka": "ena123",
+        "ime": "Ena",
+        "prezime": "Milo\u0161evi\u0107",
+        "pol": "zensko",
+        "kontakt_telefon": "+381 628047128",
+        "email": "milosevic.e@gmail.com",
+        "uloga": "gost",
+        "status": "blokiran"
+    },
+    {
+        "korisnicko_ime": "dusica672",
+        "lozinka": "dusica123",
+        "ime": "dusica",
+        "prezime": "trbovic",
+        "pol": "zensko",
+        "kontakt_telefon": "+381 602574513",
+        "email": "trbovic@gmail.com",
+        "uloga": "gost",
+        "status": "aktivan"
+    }
+]

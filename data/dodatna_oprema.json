@@ -1,0 +1,38 @@
+[
+    {
+        "sifra": 1,
+        "naziv": "parking"
+    },
+    {
+        "sifra": 2,
+        "naziv": "klima uredjaj"
+    },
+    {
+        "sifra": 3,
+        "naziv": "ves masina"
+    },
+    {
+        "sifra": 4,
+        "naziv": "bazen"
+    },
+    {
+        "sifra": 5,
+        "naziv": "pegla"
+    },
+    {
+        "sifra": 6,
+        "naziv": "masina za pranje sudja"
+    },
+    {
+        "sifra": 7,
+        "naziv": "wifi"
+    },
+    {
+        "sifra": 8,
+        "naziv": "mini bar"
+    },
+    {
+        "sifra": 9,
+        "naziv": "fen "
+    }
+]

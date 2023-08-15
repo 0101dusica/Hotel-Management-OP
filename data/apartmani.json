@@ -1,0 +1,528 @@
+[
+    {
+        "sifra": 1,
+        "tip": "apartman",
+        "broj_soba": 1,
+        "broj_gostiju": 3,
+        "lokacija": {
+            "geografska_sirina": "41.55",
+            "geografska_duzina": "21.14",
+            "adresa": {
+                "ulica_broj": "Mo\u0161e Pijade 34",
+                "grad": "Crvenka",
+                "postanski_broj": "25220"
+            }
+        },
+        "dostupnost": [
+            {
+                "od": "2022.6.12.",
+                "do": "2022.6.20."
+            },
+            {
+                "od": "2022.6.24.",
+                "do": "2022.7.12."
+            },
+            {
+                "od": "2022.7.15.",
+                "do": "2100.01.01."
+            }
+        ],
+        "domacin": "Marko Markovic",
+        "cena_po_noci": 1550,
+        "status": "aktivno",
+        "sadrzaj_apartmana": [
+            {
+                "sifra": 1,
+                "naziv": "parking"
+            },
+            {
+                "sifra": 5,
+                "naziv": "pegla"
+            }
+        ]
+    },
+    {
+        "sifra": 2,
+        "tip": "apartman",
+        "broj_soba": 2,
+        "broj_gostiju": 4,
+        "lokacija": {
+            "geografska_sirina": "46.93",
+            "geografska_duzina": "20.03",
+            "adresa": {
+                "ulica_broj": "Palmoti\u0107eva 4",
+                "grad": "Beograd",
+                "postanski_broj": "11000"
+            }
+        },
+        "dostupnost": [
+            {
+                "od": "2022.6.15.",
+                "do": "2022.6.16."
+            },
+            {
+                "od": "2022.6.19.",
+                "do": "2022.6.28."
+            },
+            {
+                "od": "2022.7.3.",
+                "do": "2122.2.12."
+            }
+        ],
+        "domacin": "Marko Markovic",
+        "cena_po_noci": 2100,
+        "status": "aktivno",
+        "sadrzaj_apartmana": [
+            {
+                "sifra": 2,
+                "naziv": "klima uredjaj"
+            },
+            {
+                "sifra": 7,
+                "naziv": "wifi"
+            }
+        ]
+    },
+    {
+        "sifra": 3,
+        "tip": "apartman",
+        "broj_soba": 1,
+        "broj_gostiju": 2,
+        "lokacija": {
+            "geografska_sirina": "42.67",
+            "geografska_duzina": "20.89",
+            "adresa": {
+                "ulica_broj": "Ulica Miladina Pe\u0107inara 23",
+                "grad": "Zlatibor",
+                "postanski_broj": "31315"
+            }
+        },
+        "dostupnost": [
+            {
+                "od": "2022.6.15.",
+                "do": "2022.6.18."
+            },
+            {
+                "od": "2022.6.19.",
+                "do": "2022.6.23."
+            },
+            {
+                "od": "2022.6.25.",
+                "do": "2022.8.2."
+            },
+            {
+                "od": "2022.8.5.",
+                "do": "2022.8.10."
+            },
+            {
+                "od": "2022.8.13.",
+                "do": "2100.01.01."
+            }
+        ],
+        "domacin": "Marko Markovic",
+        "cena_po_noci": 2350,
+        "status": "aktivno",
+        "sadrzaj_apartmana": [
+            {
+                "sifra": 2,
+                "naziv": "klima uredjaj"
+            },
+            {
+                "sifra": 5,
+                "naziv": "pegla"
+            }
+        ]
+    },
+    {
+        "sifra": 5,
+        "tip": "apartman",
+        "broj_soba": 3,
+        "broj_gostiju": 6,
+        "lokacija": {
+            "geografska_sirina": "43.04",
+            "geografska_duzina": "18.28",
+            "adresa": {
+                "ulica_broj": "Nikole Pa\u0161i\u0107a 4",
+                "grad": "Novi Sad",
+                "postanski_broj": "21000"
+            }
+        },
+        "dostupnost": [
+            {
+                "od": "2022.6.15.",
+                "do": "2022.6.19."
+            },
+            {
+                "od": "2022.6.21.",
+                "do": "2022.6.22."
+            },
+            {
+                "od": "2022.6.27.",
+                "do": "2100.01.01."
+            }
+        ],
+        "domacin": "Sara Saric",
+        "cena_po_noci": 3400,
+        "status": "aktivno",
+        "sadrzaj_apartmana": [
+            {
+                "sifra": 5,
+                "naziv": "pegla"
+            },
+            {
+                "sifra": 7,
+                "naziv": "wifi"
+            }
+        ]
+    },
+    {
+        "sifra": 6,
+        "tip": "soba",
+        "broj_soba": 1,
+        "broj_gostiju": 2,
+        "lokacija": {
+            "geografska_sirina": "46.56",
+            "geografska_duzina": "18.09",
+            "adresa": {
+                "ulica_broj": "Hbf 3",
+                "grad": "Usdbd",
+                "postanski_broj": "233"
+            }
+        },
+        "dostupnost": [
+            {
+                "od": "2022.6.12.",
+                "do": "2022.6.13."
+            },
+            {
+                "od": "2022.6.14.",
+                "do": "2122.2.12."
+            }
+        ],
+        "domacin": "Sara Saric",
+        "cena_po_noci": 1850,
+        "status": "aktivno",
+        "sadrzaj_apartmana": [
+            {
+                "sifra": 7,
+                "naziv": "wifi"
+            }
+        ]
+    },
+    {
+        "sifra": 7,
+        "tip": "soba",
+        "broj_soba": 1,
+        "broj_gostiju": 2,
+        "lokacija": {
+            "geografska_sirina": "45.52",
+            "geografska_duzina": "19.17",
+            "adresa": {
+                "ulica_broj": "Trg Republike 13",
+                "grad": "Beograd",
+                "postanski_broj": "11000"
+            }
+        },
+        "dostupnost": [
+            {
+                "od": "2022.6.13.",
+                "do": "2022.6.19."
+            },
+            {
+                "od": "2022.6.21.",
+                "do": "2022.7.13."
+            },
+            {
+                "od": "2022.7.16.",
+                "do": "2100.01.01."
+            }
+        ],
+        "domacin": "Marija Maric",
+        "cena_po_noci": 2300,
+        "status": "aktivno",
+        "sadrzaj_apartmana": [
+            {
+                "sifra": 5,
+                "naziv": "pegla"
+            },
+            {
+                "sifra": 7,
+                "naziv": "wifi"
+            }
+        ]
+    },
+    {
+        "sifra": 8,
+        "tip": "apartman",
+        "broj_soba": 1,
+        "broj_gostiju": 3,
+        "lokacija": {
+            "geografska_sirina": "46.82",
+            "geografska_duzina": "19.37",
+            "adresa": {
+                "ulica_broj": "Lisina 27",
+                "grad": "Kopaonik",
+                "postanski_broj": "36354"
+            }
+        },
+        "dostupnost": [
+            {
+                "od": "2022.6.14.",
+                "do": "2022.6.20."
+            },
+            {
+                "od": "2022.6.24.",
+                "do": "2100.01.01."
+            }
+        ],
+        "domacin": "Marija Maric",
+        "cena_po_noci": 3400,
+        "status": "aktivno",
+        "sadrzaj_apartmana": [
+            {
+                "sifra": 3,
+                "naziv": "ves masina"
+            },
+            {
+                "sifra": 5,
+                "naziv": "pegla"
+            },
+            {
+                "sifra": 7,
+                "naziv": "wifi"
+            }
+        ]
+    },
+    {
+        "sifra": 9,
+        "tip": "apartman",
+        "broj_soba": 1,
+        "broj_gostiju": 4,
+        "lokacija": {
+            "geografska_sirina": "46.28",
+            "geografska_duzina": "22.51",
+            "adresa": {
+                "ulica_broj": "Sun\u010dana Dolina 5",
+                "grad": "Kopaonik",
+                "postanski_broj": "36354"
+            }
+        },
+        "dostupnost": [
+            {
+                "od": "2022.6.14.",
+                "do": "2022.6.19."
+            },
+            {
+                "od": "2022.6.20.",
+                "do": "2022.7.1."
+            },
+            {
+                "od": "2022.7.3.",
+                "do": "2100.01.01."
+            }
+        ],
+        "domacin": "Marija Maric",
+        "cena_po_noci": 4550,
+        "status": "aktivno",
+        "sadrzaj_apartmana": [
+            {
+                "sifra": 1,
+                "naziv": "parking"
+            },
+            {
+                "sifra": 3,
+                "naziv": "ves masina"
+            }
+        ]
+    },
+    {
+        "sifra": 10,
+        "tip": "soba",
+        "broj_soba": 1,
+        "broj_gostiju": 2,
+        "lokacija": {
+            "geografska_sirina": "46.96",
+            "geografska_duzina": "19.69",
+            "adresa": {
+                "ulica_broj": "Mar\u0161ala Tita 4",
+                "grad": "Crvenka",
+                "postanski_broj": "25220"
+            }
+        },
+        "dostupnost": [
+            {
+                "od": "2022.6.12.",
+                "do": "2022.6.15."
+            },
+            {
+                "od": "2022.6.16.",
+                "do": "2122.2.12."
+            }
+        ],
+        "domacin": "Marija Maric",
+        "cena_po_noci": 1950,
+        "status": "aktivno",
+        "sadrzaj_apartmana": [
+            {
+                "sifra": 7,
+                "naziv": "wifi"
+            }
+        ]
+    },
+    {
+        "sifra": 11,
+        "tip": "soba",
+        "broj_soba": 1,
+        "broj_gostiju": 2,
+        "lokacija": {
+            "geografska_sirina": "45.66",
+            "geografska_duzina": "19.6",
+            "adresa": {
+                "ulica_broj": "Lovre Bra\u010duljevi\u0107a 2",
+                "grad": "Subotica",
+                "postanski_broj": "24000"
+            }
+        },
+        "dostupnost": [
+            {
+                "od": "2022.6.15.",
+                "do": "2022.7.3."
+            },
+            {
+                "od": "2022.7.5.",
+                "do": "2022.7.15."
+            },
+            {
+                "od": "2022.7.17.",
+                "do": "2100.01.01."
+            }
+        ],
+        "domacin": "Petar Petrovi\u0107",
+        "cena_po_noci": 2300,
+        "status": "aktivno",
+        "sadrzaj_apartmana": [
+            {
+                "sifra": 6,
+                "naziv": "masina za pranje sudja"
+            }
+        ]
+    },
+    {
+        "sifra": 12,
+        "tip": "apartman",
+        "broj_soba": 1,
+        "broj_gostiju": 4,
+        "lokacija": {
+            "geografska_sirina": "46.23",
+            "geografska_duzina": "22.73",
+            "adresa": {
+                "ulica_broj": "Bajnatska 5",
+                "grad": "Subotica",
+                "postanski_broj": "24000"
+            }
+        },
+        "dostupnost": [
+            {
+                "od": "2022.6.12.",
+                "do": "2022.6.14."
+            },
+            {
+                "od": "2022.6.16.",
+                "do": "2022.6.19."
+            },
+            {
+                "od": "2022.6.21.",
+                "do": "2022.6.24."
+            },
+            {
+                "od": "2022.6.26.",
+                "do": "2100.01.01."
+            }
+        ],
+        "domacin": "Petar Petrovi\u0107",
+        "cena_po_noci": 2600,
+        "status": "aktivno",
+        "sadrzaj_apartmana": [
+            {
+                "sifra": 1,
+                "naziv": "parking"
+            },
+            {
+                "sifra": 7,
+                "naziv": "wifi"
+            }
+        ]
+    },
+    {
+        "sifra": 13,
+        "tip": "soba",
+        "broj_soba": 1,
+        "broj_gostiju": 3,
+        "lokacija": {
+            "geografska_sirina": "46.22",
+            "geografska_duzina": "19.09",
+            "adresa": {
+                "ulica_broj": "Palmoti\u0107eva 4",
+                "grad": "Beograd",
+                "postanski_broj": "11000"
+            }
+        },
+        "dostupnost": [
+            {
+                "od": "2022.6.14.",
+                "do": "2022.6.16."
+            },
+            {
+                "od": "2022.6.17.",
+                "do": "2022.6.19."
+            },
+            {
+                "od": "2022.6.25.",
+                "do": "2100.01.01."
+            }
+        ],
+        "domacin": "Marko Markovic",
+        "cena_po_noci": 1800,
+        "status": "aktivno",
+        "sadrzaj_apartmana": [
+            {
+                "sifra": 7,
+                "naziv": "wifi"
+            },
+            {
+                "sifra": 9,
+                "naziv": "fen "
+            }
+        ]
+    },
+    {
+        "sifra": 14,
+        "tip": "apartman",
+        "broj_soba": 3,
+        "broj_gostiju": 4,
+        "lokacija": {
+            "geografska_sirina": "43.89",
+            "geografska_duzina": "19.74",
+            "adresa": {
+                "ulica_broj": "Mose Pijade 49",
+                "grad": "Novi Sad",
+                "postanski_broj": "21000"
+            }
+        },
+        "dostupnost": [
+            {
+                "od": "2022.6.30.",
+                "do": "2122.6.30."
+            }
+        ],
+        "domacin": "Sara Saric",
+        "cena_po_noci": 3100,
+        "status": "neaktivno",
+        "sadrzaj_apartmana": [
+            {
+                "sifra": 2,
+                "naziv": "klima uredjaj"
+            }
+        ]
+    }
+]
